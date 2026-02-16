@@ -31,7 +31,7 @@ app.get("/", (req, res) => {
             },
              {
                 id : 5,
-                name : "aarchie",
+                name : "aarchie girl",
                 job : "software developer",
                 salary : 1000000
             }
@@ -42,3 +42,10 @@ app.get("/", (req, res) => {
 app.listen(4000, () => {
     console.log("App is listen on port 4000");
 })
+
+
+
+
+
+
+
