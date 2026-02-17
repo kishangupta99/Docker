@@ -34,6 +34,12 @@ app.get("/", (req, res) => {
                 name : "aarchie girl",
                 job : "software developer",
                 salary : 1000000
+            },
+            {
+                id : 6,
+                name : "aarchie girl",
+                job : "software developer",
+                salary : 1000000
             }
         ]
     )
